@@ -1,4 +1,4 @@
-## Oi! Sou Ivana Jezler👋
+## Oi! Sou Ivana Jezler👋 👩‍💻
 
 
 
