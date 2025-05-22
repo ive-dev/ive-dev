@@ -31,4 +31,4 @@
   <br>
   <h2>💥 Estatíticas 💥</h2>
   
-[![Ivana Jezler no GitHUb](https://github-readme-stats.vercel.app/api?username=ive-dev&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats) 
+[![Ivana Jezler no GitHUb](https://github-readme-stats.vercel.app/api?username=ive-dev&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
